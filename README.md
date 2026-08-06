@@ -1,6 +1,6 @@
 # S.H.A.N.N.O.N.
 
-**Symbiotic Heuristic Asynchronous Neural Node Orchestration Node**
+**Symbiotic Heuristic Asynchronous Neural Network Orchestration Node**
 
 > A signal-layer coordination fabric mediating inter-agent communication, state routing, and consensus relay across the B.R.A.N.D.I. agentic network within the N.I.K.O.System.
 
